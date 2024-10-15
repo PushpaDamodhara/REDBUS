@@ -1,0 +1,274 @@
+Route_Name,Route_Link,Bus_Name,Bus_Type,Departing_Time,Duration,Reaching_Time,Star_Rating,Price,Seat_Availability
+Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Zimindara Travels,AC Sleeper (2+1),20:30,02h 30m,23:00,4.1,INR 699,26 Seats available
+Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),21:00,01h 45m,22:45,3.7,INR 899,10 Seats available
+Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),21:00,02h 00m,23:00,3.7,INR 1099,10 Seats available
+Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,City Land Travels,Volvo A/C Semi Sleeper (2+2),22:15,03h 00m,01:15,3.5,INR 1388,1 Seat available
+Yamuna Nagar to Chandigarh,https://www.redbus.in/bus-tickets/yamuna-nagar-to-chandigarh,Om Sidh Express,Volvo A/C Semi Sleeper (2+2),20:20,02h 40m,23:00,3.5,934,28 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,RSRTC - 192348,Super Luxury Volvo AC Seater Pushback 2+2,21:15,04h 45m,02:00,3.2,INR 691,34 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,RSRTC - 166269,Express Non AC Seater 2+3,22:00,04h 55m,02:55,1.0,INR 326,42 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,HRTC - 6709,Ordinary 3+2 Non AC Seater,20:45,05h 55m,02:40,3.5,INR 290,34 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater (2+2),17:30,05h 25m,22:55,4.3,285,25 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Sleeper (2+1),17:30,06h 00m,23:30,3.0,616,27 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater (2+2),18:30,05h 25m,23:55,3.7,332,26 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater (2+2),20:00,05h 20m,01:20,4.1,285,31 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Khurana Bus Service,Volvo A/C (2+2),21:10,05h 30m,02:40,3.4,INR 500,26 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater/Sleeper (2+1),22:00,05h 15m,03:15,3.6,285,18 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:20,05h 50m,05:10,4.5,656,17 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater (2+2),23:00,05h 15m,04:15,4.0,333,20 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),22:30,04h 30m,03:00,4.6,399,28 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:00,05h 30m,04:30,4.7,INR 499,25 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:35,04h 55m,04:30,4.7,INR 399,25 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:40,05h 05m,04:45,4.0,INR 485,19 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,NueGo,Electric A/C Seater/Sleeper (2+1),23:45,05h 15m,05:00,4.7,285,12 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:45,05h 25m,05:10,4.9,476,19 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:50,05h 00m,04:50,4.7,664,15 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,04h 20m,04:15,2.1,664,19 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:40,06h 00m,23:40,2.6,462,27 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),18:20,04h 10m,22:30,3.0,399,34 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),18:45,03h 45m,22:30,3.0,399,37 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Khurana Bus Service,Volvo A/C (2+2),20:50,05h 50m,02:40,3.5,INR 400,21 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),22:40,04h 20m,03:00,2.6,399,44 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),22:55,04h 05m,03:00,5.0,399,45 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),18:00,04h 30m,22:30,4.6,399,28 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:55,05h 50m,05:45,3.6,810,16 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),23:55,05h 50m,05:45,3.5,810,4 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Indo Canadian Transport Company,Volvo A/C Sleeper (2+1),22:28,06h 32m,05:00,3.5,INR 3850,25 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,06h 16m,06:15,2.0,674,18 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Indo Canadian Transport Company,Volvo A/C Sleeper (2+1),22:30,06h 30m,05:00,2.5,INR 3850,25 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:00,05h 20m,04:20,0,807,1 Seat available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,VT Bus,Scania Multi-Axle AC Semi Sleeper (2+2),22:25,04h 35m,03:00,0,1714,49 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),00:28,06h 32m,07:00,0,INR 3300,40 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,Indo Canadian Transport Company,Mercedes A/C Semi Sleeper (2+2),00:30,06h 30m,07:00,0,INR 3300,33 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),18:05,04h 55m,23:00,0,INR 988,3 Seats available
+Chandigarh to Delhi,https://www.redbus.in/bus-tickets/chandigarh-to-delhi,City Land Travels,Volvo A/C Semi Sleeper (2+2),20:30,06h 00m,02:30,0,INR 788,32 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,NueGo,Electric A/C Seater (2+2),17:30,05h 05m,22:35,3.9,285,2 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Zingbus Plus,Volvo A/C Semi Sleeper (2+2),17:30,06h 00m,23:30,4.8,270,13 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Big Bus,A/C Seater / Sleeper (2+2),17:35,04h 50m,22:25,4.0,INR 624,17 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,FlixBus,Bharat Benz A/C Sleeper (2+1),17:45,05h 30m,23:15,3.9,INR 1203.57,4 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),18:00,05h 30m,23:30,4.7,664,10 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Malana Travels,Bharat Benz A/C Semi Sleeper (2+2),18:00,05h 30m,23:30,3.1,579,28 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Subh Yatri Holidays,Volvo A/C Semi Sleeper (2+2),18:00,06h 15m,00:15,3.0,630,31 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,FlixBus,Bharat Benz A/C Seater (2+2),18:00,06h 10m,00:10,3.9,INR 454.46,28 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),18:30,05h 15m,23:45,4.7,475,17 Seats available
+Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05h 20m,23:50,4.7,570,12 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Jujhar Travels,Mercedes Benz A/C (2+2),18:50,02h 00m,20:50,3.7,INR 300,46 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,02h 30m,21:30,3.5,415,38 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:00,03h 20m,00:20,3.3,508,38 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:55,02h 20m,02:15,4.7,INR 498,28 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),20:15,01h 50m,22:05,1.0,449,53 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,01h 32m,01:30,2.4,599,29 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),23:58,01h 27m,01:25,3.6,599,33 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:40,02h 15m,22:55,1.0,349,35 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:40,02h 00m,22:40,3.8,349,35 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:40,01h 50m,22:30,3.6,349,35 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),21:30,01h 45m,23:15,3.8,INR 111,31 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:05,00h 50m,23:55,3.7,699,33 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),19:15,03h 20m,22:35,3.2,INR 549,36 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),23:05,00h 52m,23:57,3.4,699,33 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),21:30,02h 00m,23:30,3.0,INR 1399,31 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),23:05,01h 15m,00:20,3.0,INR 849,31 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Everest Holidays,Volvo A/C Semi Sleeper (2+2),23:15,00h 44m,23:59,1.0,832,26 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:40,01h 30m,01:10,0,INR 1086,39 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:40,00h 19m,23:59,0,INR 1086,39 Seats available
+Ludhiana to Chandigarh,https://www.redbus.in/bus-tickets/ludhiana-to-chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),23:05,00h 52m,23:57,0,INR 849,31 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),22:00,02h 35m,00:35,5.0,INR 549,19 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Zimindara Travels,AC Sleeper (2+1),22:55,03h 15m,02:10,4.1,INR 749,36 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,02h 50m,00:20,3.5,508,38 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:58,03h 35m,03:33,3.0,INR 1086,39 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:30,02h 30m,02:00,3.7,INR 1399,27 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:15,02h 45m,02:00,3.7,INR 899,27 Seats available
+Chandigarh to Yamuna Nagar,https://www.redbus.in/bus-tickets/chandigarh-to-yamuna-nagar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,02h 30m,02:00,3.5,415,26 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Jujhar Travels,Volvo A/C Semi Sleeper (2+2),18:20,02h 00m,20:20,3.7,INR 300,38 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:55,02h 05m,20:00,2.5,INR 295,43 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),19:20,02h 10m,21:30,1.0,349,42 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:00,01h 30m,21:30,2.0,349,47 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:10,01h 20m,21:30,5.0,349,47 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,AMBIKA MISHRA TRAVELS,AC Sleeper (2+1),20:40,01h 40m,22:20,3.4,278,22 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Rajpreet Travels and cargo,A/C Sleeper (2+1),20:00,02h 00m,22:00,3.7,599,31 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Zimindara Travels,AC Sleeper (2+1),20:00,02h 20m,22:20,3.7,INR 714,35 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,Rajpreet Travels and cargo,A/C Sleeper (2+1),19:00,02h 30m,21:30,0,855,28 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),22:45,01h 45m,00:30,0,INR 899,10 Seats available
+Chandigarh to Ludhiana,https://www.redbus.in/bus-tickets/chandigarh-to-ludhiana,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),23:00,01h 30m,00:30,0,INR 1099,10 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,HRTC - 15,Himsuta AC Seater Volvo/Scania 2+2,20:00,04h 10m,00:10,5.0,INR 545,8 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,HRTC - 622,Ordinary 3+2 Non AC Seater,21:15,05h 15m,02:30,3.3,INR 369,37 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:20,04h 55m,01:15,4.6,569,15 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),21:15,04h 05m,01:20,4.1,585,3 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Ram Dalal Holidays,Volvo A/C Semi Sleeper (2+2),22:00,05h 10m,03:10,5.0,693,3 Seats available
+Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh,Bedi Travels,Volvo A/C Semi Sleeper (2+2),22:05,04h 00m,02:05,4.8,630,6 Seats available
+Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,Chandigarh Transport Undertaking (CTU) - 165938,HVAC Seater (2+3),20:00,09h 45m,05:45,3.9,INR 634.7,17 Seats available
+Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:40,08h 10m,01:50,2.0,924,26 Seats available
+Chandigarh to Vrindavan,https://www.redbus.in/bus-tickets/chandigarh-to-vrindavan,GK Travels,A/C Seater/Sleeper (2+1),17:29,07h 31m,01:00,1.0,INR 1499,4 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,HRTC - 1525,A/C Executive (2+3),18:30,07h 00m,01:30,1.9,INR 482,12 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,HRTC - 215,Ordinary 3+2 Non AC Seater,22:30,08h 00m,06:30,3.8,INR 530,27 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,New Pal Travels,A/C Sleeper (2+1),19:30,07h 00m,02:30,5.0,459,24 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Jamna Travels-Jammu,AshokLeyland Stile A/C,20:30,05h 00m,01:30,3.1,495,14 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Baru travels,A/C Seater / Sleeper (2+2),20:45,05h 15m,02:00,3.2,377,26 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,AdAwadh Travels,A/C Sleeper (2+2),21:30,04h 30m,02:00,3.6,764,30 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Harikesh Tour N Travels,A/C Sleeper (2+1),21:00,05h 00m,02:00,4.7,481,16 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Moon Light Travels Katra,A/C Sleeper (2+1),21:15,04h 45m,02:00,5.0,552,18 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,SAHARA TRAVELS,A/C Seater / Sleeper (2+2),21:15,05h 30m,02:45,2.6,349,27 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:30,05h 00m,02:30,4.0,493,15 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,GOBUS,A/C Seater / Sleeper (2+2),22:05,04h 25m,02:30,3.3,359,32 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),22:45,05h 30m,04:15,3.7,INR 899,9 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),22:50,04h 10m,03:00,3.8,608,10 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),23:00,05h 15m,04:15,3.7,INR 1099,9 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),23:05,04h 15m,03:20,4.6,INR 456,14 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Zimindara Travels,AC Sleeper (2+1),23:15,04h 30m,03:45,4.2,INR 649,23 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),23:30,04h 50m,04:20,4.0,641,5 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Moon Light Travels Katra,A/C Sleeper (2+1),22:00,04h 00m,02:00,4.0,552,14 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Laxmi holidays,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:50,04h 10m,04:00,4.9,770,11 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Radhe Travels,Bharat Benz A/C Sleeper (2+1),21:20,05h 10m,02:30,3.4,493,15 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),19:20,05h 30m,00:50,3.4,399,40 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:00,04h 50m,00:50,2.5,399,48 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Lucky Bus Service,Volvo A/C Sleeper (2+2),23:45,04h 00m,03:45,2.9,1034,27 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Orbit Aviation Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),20:10,04h 40m,00:50,0,399,47 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,Big Bus,A/C Seater / Sleeper (2+2),22:25,04h 20m,02:45,0,INR 624,38 Seats available
+Chandigarh to Pathankot,https://www.redbus.in/bus-tickets/chandigarh-to-pathankot,RK Holiday,A/C Seater / Sleeper (2+2),23:20,04h 20m,03:40,0,INR 595,29 Seats available
+Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,NueGo,Electric A/C Seater (2+2),18:00,04h 55m,22:55,4.0,382,34 Seats available
+Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,NueGo,Electric A/C Seater (2+2),19:00,03h 55m,22:55,4.3,382,34 Seats available
+Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 30m,05:00,3.7,INR 899,26 Seats available
+Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,Laxmi holidays,,23:55,05h 50m,05:45,4.5,,
+Chandigarh to Dehradun,https://www.redbus.in/bus-tickets/chandigarh-to-dehradun,,,,,,,,
+Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),17:30,05h 15m,22:45,3.7,INR 899,10 Seats available
+Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),,17:30,05h 30m,23:00,3.7,INR 1099,10 Seats available
+Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,,,,,,,,
+Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,,,,,,,,
+Dehradun to Chandigarh,https://www.redbus.in/bus-tickets/dehradun-to-chandigarh,,,,,,,,
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,HRTC - 1024,A/C Executive (2+3),21:30,06h 45m,04:15,3.4,INR 511,42 Seats available
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,HRTC - 100,Himsuta AC Seater Volvo/Scania 2+2,22:50,05h 10m,04:00,5.0,INR 871,16 Seats available
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:15,04h 43m,23:58,3.7,494,12 Seats available
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),20:00,06h 00m,02:00,4.1,INR 549,6 Seats available
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,,,,,,,,
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,,,,,,,,
+Pathankot to Chandigarh,https://www.redbus.in/bus-tickets/pathankot-to-chandigarh,,,,,,,,
+Sujanpur (himachal pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sujanpur-to-chandigarh,HRTC - 1105,Ordinary 3+2 Non AC Seater,19:00,06h 10m,01:10,3.8,INR 383,27 Seats available
+Sujanpur (himachal pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sujanpur-to-chandigarh,HRTC - 1101,Ordinary 3+2 Non AC Seater,19:30,05h 35m,01:05,3.8,INR 383,34 Seats available
+Sujanpur (himachal pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sujanpur-to-chandigarh,HRTC - 622,Ordinary 3+2 Non AC Seater,20:10,06h 20m,02:30,5.0,INR 422,37 Seats available
+Sujanpur (himachal pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sujanpur-to-chandigarh,HRTC - 1106,Ordinary 3+2 Non AC Seater,20:30,05h 45m,02:15,3.8,INR 383,35 Seats available
+Sujanpur (himachal pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/sujanpur-to-chandigarh,,,,,,,,
+Chandigarh to Sujanpur (himachal pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-sujanpur,HRTC - 1528,Ordinary 3+2 Non AC Seater,18:40,05h 50m,00:30,3.8,INR 381,37 Seats available
+Chandigarh to Sujanpur (himachal pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-sujanpur,HRTC - 1537,Ordinary 3+2 Non AC Seater,21:00,06h 30m,03:30,5.0,INR 354,27 Seats available
+Chandigarh to Shimla,https://www.redbus.in/bus-tickets/chandigarh-to-shimla,HRTC - 2030270,Ordinary 3+2 Non AC Seater,19:30,03h 30m,23:00,3.8,INR 242,35 Seats available
+Chandigarh to Shimla,https://www.redbus.in/bus-tickets/chandigarh-to-shimla,HRTC - 1729,Ordinary 3+2 Non AC Seater,20:20,05h 10m,01:30,3.8,INR 242,33 Seats available
+Chandigarh to Baijnath,https://www.redbus.in/bus-tickets/chandigarh-to-baijnath,HRTC - 1505,Ordinary 3+2 Non AC Seater,20:16,07h 44m,04:00,3.2,INR 513,37 Seats available
+Chandigarh to Baijnath,https://www.redbus.in/bus-tickets/chandigarh-to-baijnath,HRTC - 1150,Ordinary 3+2 Non AC Seater,20:30,08h 45m,05:15,3.8,INR 518,35 Seats available
+Chandigarh to Baijnath,https://www.redbus.in/bus-tickets/chandigarh-to-baijnath,Chandigarh Transport Undertaking (CTU) - 165825,HVAC Seater (2+3),20:08,09h 00m,05:08,4.0,INR 611.4,43 Seats available
+Chandigarh to Baijnath,https://www.redbus.in/bus-tickets/chandigarh-to-baijnath,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,06h 35m,06:30,4.5,INR 499,7 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,HRTC - 573,Ordinary 3+2 Non AC Seater,19:40,06h 20m,02:00,2.0,INR 459,37 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,HRTC - 91,Himsuta AC Seater Volvo/Scania 2+2,22:10,06h 30m,04:40,4.2,INR 784,25 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,HRTC - 1213,Ordinary 3+2 Non AC Seater,22:47,07h 13m,06:00,3.8,INR 452,34 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,06h 05m,06:00,4.6,569,15 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,06h 04m,05:59,4.5,569,15 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,07h 16m,07:15,2.8,449,30 Seats available
+Chandigarh to Dharamshala (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-dharamshala,A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),23:59,06h 41m,06:40,2.2,449,30 Seats available
+Chandigarh to Amritsar,https://www.redbus.in/bus-tickets/chandigarh-to-amritsar,NueGo,Electric A/C Seater (2+2),18:15,04h 00m,22:15,4.2,424,23 Seats available
+Chandigarh to Agra,https://www.redbus.in/bus-tickets/chandigarh-to-agra,Chandigarh Transport Undertaking (CTU) - 165906,HVAC Seater (2+3),20:30,11h 00m,07:30,3.7,INR 740.6,45 Seats available
+Chandigarh to Agra,https://www.redbus.in/bus-tickets/chandigarh-to-agra,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:40,09h 50m,03:30,4.0,924,27 Seats available
+Rohtak to Chandigarh,https://www.redbus.in/bus-tickets/rohtak-to-chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:55,04h 30m,04:25,3.5,629,17 Seats available
+Narnaul to Chandigarh,https://www.redbus.in/bus-tickets/narnaul-to-chandigarh,Hari Das Tour &Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:40,05h 45m,04:25,3.1,629,17 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:00,05h 30m,23:30,5.0,508,32 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:00,06h 20m,00:20,3.9,554,25 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),18:15,05h 00m,23:15,3.7,INR 599,31 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,NueGo,Electric A/C Seater (2+2),18:15,04h 00m,22:15,4.3,424,37 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),18:15,05h 15m,23:30,3.7,INR 599,31 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),19:30,04h 10m,23:40,4.7,INR 485,24 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:00,04h 25m,01:25,4.5,INR 485,20 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:10,03h 20m,01:30,5.0,599,34 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),21:30,04h 45m,02:15,4.3,INR 494,28 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Bhawani Travels,A/C Seater / Sleeper (2+2),21:40,04h 50m,02:30,3.9,INR 500,24 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),21:30,02h 27m,23:57,3.8,699,33 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:00,04h 20m,02:20,4.8,570,22 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),21:30,02h 25m,23:55,3.8,699,33 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Laxmi holidays,Bharat Benz A/C Sleeper (2+1),22:30,04h 50m,03:20,4.1,570,27 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),21:30,02h 27m,23:57,2.1,INR 849,31 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Abtc Tour and Travels,Bharat Benz A/C Semi Sleeper (2+2),21:30,02h 50m,00:20,2.1,INR 849,31 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Everest Holidays,Volvo A/C Semi Sleeper (2+2),21:30,02h 29m,23:59,1.0,832,26 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Muskan Tour And Travels private Limited,Volvo Multi-Axle I-Shift B11R Semi Sleeper (2+2),21:50,03h 20m,01:10,2.6,599,33 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Golden Temple Express Volvo,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:15,03h 10m,01:25,2.5,599,33 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),21:00,02h 59m,23:59,3.0,INR 1086,39 Seats available
+Amritsar to Chandigarh,https://www.redbus.in/bus-tickets/amritsar-to-chandigarh,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),21:00,04h 10m,01:10,3.0,INR 1086,39 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),22:00,05h 15m,03:15,4.1,INR 549,17 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:15,06h 20m,05:35,3.7,INR 699,23 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05h 00m,04:30,4.1,508,16 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:30,06h 05m,05:35,4.8,INR 699,23 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,Laxmi holidays,VE A/C Semi Sleeper (2+2),23:55,06h 35m,06:30,4.4,949,13 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,Golden Temple Volvo Bus Service,A/C Seater / Sleeper (2+1),23:58,05h 57m,05:55,3.0,INR 1086,39 Seats available
+Chandigarh to Haridwar,https://www.redbus.in/bus-tickets/chandigarh-to-haridwar,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),21:30,05h 10m,02:40,1.0,554,32 Seats available
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,19:00,06h 15m,01:15,4.7,INR 852,27 Seats available
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 904,Himmani Deluxe 2+2 Non AC Seater,19:00,06h 30m,01:30,3.8,INR 478,24 Seats available
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 13,Himsuta AC Seater Volvo/Scania 2+2,19:05,07h 10m,02:15,3.8,INR 847,12 Seats available
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,19:35,05h 40m,01:15,4.0,INR 816,33 Seats available
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh,,,,,,,,
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,HRTC - 1109,Ordinary 3+2 Non AC Seater,19:05,05h 15m,00:20,5.0,INR 339,37 Seats available
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,HRTC - 25,Himsuta AC Seater Volvo/Scania 2+2,20:10,05h 05m,01:15,3.8,INR 635,32 Seats available
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,HRTC - 925,A/C Executive (2+3),21:10,04h 50m,02:00,3.8,INR 374,44 Seats available
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,HRTC - 43,Himsuta AC Seater Volvo/Scania 2+2,21:20,03h 55m,01:15,3.0,INR 621,22 Seats available
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,,,,,,,,
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,,,,,,,,
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,,,,,,,,
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,,,,,,,,
+Jawala Ji to Chandigarh,https://www.redbus.in/bus-tickets/jawala-ji-to-chandigarh,,,,,,,,
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,HRTC - 1103,A/C Executive (2+3),20:00,07h 00m,03:00,4.4,INR 548,42 Seats available
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,HRTC - 1116,A/C Executive (2+3),20:50,07h 15m,04:05,3.4,INR 583,27 Seats available
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,Chandigarh Transport Undertaking (CTU) - 165826,HVAC Seater (2+3),18:40,09h 00m,03:40,4.8,INR 611.4,47 Seats available
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,Northern Travels,Volvo A/C Semi Sleeper (2+2),18:00,07h 00m,01:00,4.8,INR 589,6 Seats available
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,,,,,,,,
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,,,,,,,,
+Baijnath to Chandigarh,https://www.redbus.in/bus-tickets/baijnath-to-chandigarh,,,,,,,,
+Chandigarh to Rohtak,https://www.redbus.in/bus-tickets/chandigarh-to-rohtak,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:50,05h 10m,23:00,3.6,601,28 Seats available
+Chandigarh to Rohtak,https://www.redbus.in/bus-tickets/chandigarh-to-rohtak,Shree Raj Akanshi travels,,19:05,04h 35m,23:40,4.0,INR 699,23 Seats available
+Chandigarh to Rohtak,https://www.redbus.in/bus-tickets/chandigarh-to-rohtak,,,,,,,,
+Chandigarh to Rohtak,https://www.redbus.in/bus-tickets/chandigarh-to-rohtak,,,,,,,,
+Chandigarh to Rohtak,https://www.redbus.in/bus-tickets/chandigarh-to-rohtak,,,,,,,,
+Chandigarh to Hisar (Haryana),https://www.redbus.in/bus-tickets/chandigarh-to-hisar-haryana,Vijay Tour and Travels,Bharat Benz A/C Seater /Sleeper (2+1),17:45,04h 20m,22:05,2.5,555,32 Seats available
+Chandigarh to Hisar (Haryana),https://www.redbus.in/bus-tickets/chandigarh-to-hisar-haryana,Vijay Tour and Travels,,20:00,04h 20m,00:20,3.7,832,
+Chandigarh to Hisar (Haryana),https://www.redbus.in/bus-tickets/chandigarh-to-hisar-haryana,,,,,,,,
+Chandigarh to Una (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-una,HRTC - 1528,Ordinary 3+2 Non AC Seater,18:40,02h 20m,21:00,4.2,INR 187,37 Seats available
+Chandigarh to Una (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-una,HRTC - 1213,Ordinary 3+2 Non AC Seater,22:47,02h 58m,01:45,3.8,INR 187,34 Seats available
+Chandigarh to Una (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-una,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:55,02h 35m,02:30,5.0,INR 499,29 Seats available
+Chandigarh to Una (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-una,Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),23:55,02h 45m,02:40,5.0,569,15 Seats available
+Chandigarh to Rishikesh,https://www.redbus.in/bus-tickets/chandigarh-to-rishikesh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),Bharat Benz A/C Seater /Sleeper (2+1),23:15,06h 15m,05:30,3.7,INR 899,25 Seats available
+Chandigarh to Rishikesh,https://www.redbus.in/bus-tickets/chandigarh-to-rishikesh,Laxmi holidays,,23:55,06h 15m,06:10,4.4,949,
+Chandigarh to Rishikesh,https://www.redbus.in/bus-tickets/chandigarh-to-rishikesh,,,,,,,,
+Chandigarh to Rishikesh,https://www.redbus.in/bus-tickets/chandigarh-to-rishikesh,,,,,,,,
+Rishikesh to Chandigarh,https://www.redbus.in/bus-tickets/rishikesh-to-chandigarh,SHRI KRISHNA TRAVELS (JAI SHREE GANESH YATRA CO.),A/C Sleeper (2+2),18:00,05h 00m,23:00,3.7,INR 1099,10 Seats available
+Rishikesh to Chandigarh,https://www.redbus.in/bus-tickets/rishikesh-to-chandigarh,,,,,,,,
+Rishikesh to Chandigarh,https://www.redbus.in/bus-tickets/rishikesh-to-chandigarh,,,,,,,,
+Rishikesh to Chandigarh,https://www.redbus.in/bus-tickets/rishikesh-to-chandigarh,,,,,,,,
+Rishikesh to Chandigarh,https://www.redbus.in/bus-tickets/rishikesh-to-chandigarh,,,,,,,,
+Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,03h 15m,23:45,4.8,492,17 Seats available
+Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,03h 05m,23:35,4.6,INR 399,32 Seats available
+Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,02h 30m,23:00,4.8,INR 399,32 Seats available
+Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,Zingbus Plus,,20:30,02h 50m,23:20,5.0,,
+Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh,,,,,,,,
+Haldwani to Chandigarh,https://www.redbus.in/bus-tickets/haldwani-to-chandigarh,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),19:00,10h 40m,05:40,4.1,832,14 Seats available
+Haldwani to Chandigarh,https://www.redbus.in/bus-tickets/haldwani-to-chandigarh,Vijay Tour and Travels,,19:40,09h 50m,05:30,,,
+Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Laxmi holidays,VE A/C Seater / Sleeper (2+1),22:15,06h 55m,05:10,4.5,INR 473,13 Seats available
+Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,Jamna Travels-Jammu,,21:00,07h 30m,04:30,,,
+Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,,,,,,,,
+Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,,,,,,,,
+Jammu (j and k) to Chandigarh,https://www.redbus.in/bus-tickets/jammu-to-chandigarh,,,,,,,,
+Chandigarh to Narnaul,https://www.redbus.in/bus-tickets/chandigarh-to-narnaul,GK Travels,A/C Seater/Sleeper (2+1),22:15,04h 45m,03:00,4.7,INR 699,32 Seats available
+Chandigarh to Narnaul,https://www.redbus.in/bus-tickets/chandigarh-to-narnaul,Vijay Tour and Travels,,21:00,06h 00m,03:00,,,
+Chandigarh to Narnaul,https://www.redbus.in/bus-tickets/chandigarh-to-narnaul,,,,,,,,
+Chandigarh to Narnaul,https://www.redbus.in/bus-tickets/chandigarh-to-narnaul,,,,,,,,
+Chandigarh to Jawala Ji,https://www.redbus.in/bus-tickets/chandigarh-to-jawala-ji,HRTC - 573,Ordinary 3+2 Non AC Seater,19:40,04h 35m,00:15,4.0,INR 343,37 Seats available
+Chandigarh to Jawala Ji,https://www.redbus.in/bus-tickets/chandigarh-to-jawala-ji,HRTC - 1524,Ordinary 3+2 Non AC Seater,22:00,04h 45m,02:45,1.0,INR 325,25 Seats available
+Chandigarh to Jawala Ji,https://www.redbus.in/bus-tickets/chandigarh-to-jawala-ji,HRTC - 1213,Ordinary 3+2 Non AC Seater,22:47,05h 43m,04:30,3.8,INR 334,37 Seats available
+Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,Zimindara Travels,A/C Seater / Sleeper (2+1),22:30,07h 00m,05:30,4.3,394,20 Seats available
+Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,,,,,,,,
+Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,,,,,,,,
+Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,,,,,,,,
+Chandigarh to Jammu (j and k),https://www.redbus.in/bus-tickets/chandigarh-to-jammu,,,,,,,,
+Firozpur to Chandigarh,https://www.redbus.in/bus-tickets/ferozpur-to-chandigarh,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),23:30,04h 00m,03:30,2.7,INR 666,34 Seats available
+Chandigarh to Haldwani,https://www.redbus.in/bus-tickets/chandigarh-to-haldwani,Shree Mahaveer Travels Jaipur,Bharat Benz A/C Seater /Sleeper (2+1),22:00,09h 20m,07:20,4.2,693,17 Seats available
+Chandigarh to Haldwani,https://www.redbus.in/bus-tickets/chandigarh-to-haldwani,Vijay Tour and Travels,,21:30,10h 00m,07:30,,,
+Chandigarh to Haldwani,https://www.redbus.in/bus-tickets/chandigarh-to-haldwani,,,,,,,,
+Chandigarh to Haldwani,https://www.redbus.in/bus-tickets/chandigarh-to-haldwani,,,,,,,,
+Chandigarh to Haldwani,https://www.redbus.in/bus-tickets/chandigarh-to-haldwani,,,,,,,,
+Chandigarh to Firozpur,https://www.redbus.in/bus-tickets/chandigarh-to-ferozpur,Orbit Aviation Pvt. Ltd.,Mercedes Multi-Axle Semi Sleeper (2+2),17:55,04h 00m,21:55,3.7,INR 666,43 Seats available
